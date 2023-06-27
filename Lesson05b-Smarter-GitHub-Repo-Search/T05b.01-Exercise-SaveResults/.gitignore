@@ -30,6 +30,9 @@ project.properties
 .classpath
 .project
 
+# Eclipse project files
+.classpath
+.project
 # idea project files
 .idea/
 *.iml
